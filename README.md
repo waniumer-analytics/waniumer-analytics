@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wani Umer</h1>
+<h1 align="center">SALAM, I'm WANI UMER</h1>
 <h3 align="center">Data Analyst</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@ Transforming raw data into meaningful insights that drive smarter business decis
 <h2> About Me</h2>
 
 <ul>
-<li>📊 Skilled in <b>Excel, Power BI, SQL, Python</b></li>
+<li>📊 Skilled in <b>Excel, Power BI, SQL </b></li>
 <li>🚀 Currently improving <b>Python, Data Engineering, Microsoft Fabric, AI Automation</b></li>
 <li>📈 Passionate about <b>Data Analytics and Business Intelligence</b></li>
 <li>🌐 Portfolio: <a href="https://codebasics.io/portfolio/WANI-UMER" target="_blank">codebasics.io/portfolio/WANI-UMER</a></li>
